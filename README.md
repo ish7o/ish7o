@@ -20,12 +20,6 @@ Also irl known as Julian
 - [ish7o/monkey - An interpreter](https://github.com/ish7o/Monkey) (based on: <https://interpreterbook.com/>]
 - [ish7o/dotfiles - My dotfiles aka mess](https://github.com/ish7o/dotfiles)
 
-### Tech I use daily / Fancy stats 🌸
-![ish7o's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ish7o&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-### Visits:
-![visits](https://visit-counter.vercel.app/counter.png?page=github.com%2Fish7o&s=24&c=ffc4e7&bg=00000000&no=2&ff=digi&tb=&ta=)
-
 ---
 "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." - Von Neumann
 
