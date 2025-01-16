@@ -1,6 +1,6 @@
 ## Ish7o ✨
 
-- A guy who thinks to omuch about life (that's why I'm sometimes depressed)
+- A guy who thinks too much about life (that's why I'm sometimes depressed)
 - Neovim & Arch BTW 💜
 
 Hi, I'm ishto, a shy nerd, not keen on learning anything, it's just the curiosity that drives me. I know bits of go and python, might write rust if feeling smart. I just hang around, might read Arch Wiki for fun or act like I understand kernel code. At least I'm not a web dev.
