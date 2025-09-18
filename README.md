@@ -1,14 +1,12 @@
 ## Ish7o ✨
 
-- A guy who thinks too much about life (that's why I'm sometimes depressed)
+- I think too much about life
 - Neovim & Arch BTW 💜
 
-Hi, I'm ishto, a shy nerd, not keen on learning anything, it's just the curiosity that drives me. I know bits of go and python, might write rust if feeling smart. I just hang around, might read Arch Wiki for fun or act like I understand kernel code. At least I'm not a web dev.
-
-Also irl known as Julian
+Hi, I'm ishto, a shy nerd, not keen on learning anything, it's just the curiosity that drives me :3 I know bits of go and python, might write haskul if feeling smart. Might read Arch Wiki for fun or act like I understand kernel code. At least I'm not a web dev.
 
 ### What I like
-- Code in Go, maybe Python, Rust if I'm feeling smart
+- Code (how did you not see that coming)
 - Configure Neovim (endlessly)
 - Read docs & manga
 - Mood based occasional artist
@@ -22,8 +20,6 @@ Also irl known as Julian
 
 ---
 "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." - Von Neumann
-
-"Trying to debug life with logic..."
 
 Here's a cutie:
 ```
