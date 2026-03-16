@@ -1,27 +1,24 @@
-## Ish7o ✨
+# ishto
 
-- I think too much about life
-- Neovim & Arch BTW 💜
-
-Hi, I'm ishto, a shy nerd, not keen on learning anything, it's just the curiosity that drives me :3 I know bits of go and python, might write haskul if feeling smart. Might read Arch Wiki for fun or act like I understand kernel code. At least I'm not a web dev.
-
-### What I like
-- Code (how did you not see that coming)
-- Configure Neovim (endlessly)
-- Read docs & manga
-- Mood based occasional artist
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rec+Mono+Casual&letterSpacing=&pause=1000&color=FFC4E7&width=435&lines=vim.cmd('colorscheme+night-3am');yay+-S+peace-of-mind;go+build+-o+dreams;Reading+docs+at+3am...;%2Fbin%2Fbash+my_thoughts.sh;cargo+check+reality;make+sense_of_it_all)](https://git.io/typing-svg)
+Hi, I'm ishto, a shy nerd driven by curiosity rather than any actual desire to learn things. I sometimes write Go and Haskell when feeling smart. I read the Arch Wiki for fun and pretend to understand kernel code. Arch & Neovim obviously. At least I'm not a web dev.
 
 ### Some things I made ⭐
-- [ish7o/godown - Simple particle simulation in go](https://github.com/ish7o/godown)
-- [ish7o/monkey - An interpreter](https://github.com/ish7o/Monkey) (based on: <https://interpreterbook.com/>]
-- [ish7o/dotfiles - My dotfiles aka mess](https://github.com/ish7o/dotfiles)
+- [huffman-coding - A text compression/decompression cli tool using huffman encoding in go](https://github.com/ish7o/huffman-coding)
+- [parsemd - A monadic markdown parser in haskell](https://github.com/ish7o/parsemd)
+- [godown - Terminal particle simulation in go from scratch](https://github.com/ish7o/godown)
+- [monkey - An interpreter in go](https://github.com/ish7o/Monkey) (based on: <https://interpreterbook.com/>)
+- [gf - My own `find` in go](https://github.com/ish7o/gf)
+- [network_chat - an end to end encrypted (RSA, DHKE) network chat in python (old)](https://github.com/ish7o/network_chat)
+  
+### What I like:
+- Programming (shocking, I know)
+- Configuring neovim, endlessly
+- Photography - chiaroscuro, hyperfocal distance, chromatic aberration (I'm very smart)
+- Reading docs & manga (same thing, truly)
+- Occasional artist and poet
+- Drums (badly, but passionately)
 
----
-"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." - Von Neumann
-
-Here's a cutie:
+To end on a good note, here's a cutie:
 ```
  \     /\
   )   ( ')
